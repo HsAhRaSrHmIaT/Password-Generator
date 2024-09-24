@@ -36,4 +36,4 @@ if st.button("Generate Password"):
     else:
         st.markdown(f'<div style="border:2px solid;padding:10px;border-radius:10px;">Your random password is: <b>{password}</b></div>',
                     unsafe_allow_html=True)
-        # st.snow()
+        st.snow()
