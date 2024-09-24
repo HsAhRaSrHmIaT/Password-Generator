@@ -35,6 +35,5 @@ Clone the repository:
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Checkout Link
-  ```
+
   https://ghostpasswordgenerator.streamlit.app/
-  ```
